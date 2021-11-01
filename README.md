@@ -1,2 +1,1 @@
-# frontend
-# frontend
+nhờ bạn chỉnh sửa cho mình, thêm được file search.html vào thẻ index phần thanh tiêu đề,tks!
